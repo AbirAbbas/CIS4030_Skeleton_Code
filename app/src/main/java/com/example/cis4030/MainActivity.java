@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvMessage;
 
     /* SET PASSWORD HERE PLEASE */
-    public static final String PASSWORD = "SET PASSWORD HERE";
+    public static final String PASSWORD = "mushroompromo";
 
     public String getHash(String password) {
         MessageDigest digest=null;
